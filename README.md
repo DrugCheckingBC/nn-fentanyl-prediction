@@ -31,11 +31,7 @@ The test strip data is provided in CSV format, with the following columns:
 - `FILE_ID`: The name of the associated FTIR file.
 - `FENTANYL_STRIP_POS`: Whether the drug tested positive for fentanyl by the strip test (1=Positive, 0=Negative).
 - `FENTANYL_FTIR_POS`: Whether the drug tested positive for fentanyl in the FTIR sample (1=Positive, 0=Negative).
-- `SITE`: The site that the drugs were tested in.
-- `DATE`: The date of the drug test.
-- `CITY`: The city that the drugs were tested in.
-- `COLOR`: The color of the drug assessed by the technician.
-- `TEXTURE`: The texture of the drug assessed by the technician.
+
 
 ## Contributing
 
@@ -43,7 +39,7 @@ While this is a public data repository, it is not open for contributions. Howeve
 
 ## Contact
 
-If you have any specific questions about this dataset, please feel free to contact us at `cameron.grant@bccsu.ubc.ca`.
+If you have any specific questions about this dataset, please feel free to contact us at `drugchecking@bccsu.ubc.ca`.
 
 ## License
 
